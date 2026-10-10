@@ -1,0 +1,1 @@
+alias ctcp="setxkbmap -option ctrl:nocaps"
